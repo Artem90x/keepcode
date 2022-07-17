@@ -8,7 +8,8 @@
 Вывести все номера по всем странам в консоль, или файл, или графический интерфейс на Swing или JavaFx.
 
 Справка по api:
-https://onlinesim.ru/docs/api/ru/free/_info
+- https://onlinesim.ru/docs/api/ru/free/_info
+
 ---
 #### 2. Распарсить прайс лист со страницы:
 - http://onlinesim.ru/price-list
