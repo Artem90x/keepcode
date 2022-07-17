@@ -6,7 +6,6 @@
 - https://onlinesim.ru/api/getFreePhoneList?country=?
 
 Вывести все номера по всем странам в консоль, или файл, или графический интерфейс на Swing или JavaFx.
-
 Справка по api:
 https://onlinesim.ru/docs/api/ru/free/_info
 ---
